@@ -8,7 +8,7 @@
 
 ## >>> About Me
 
-I'm a **Third-year B.Tech AIML student** at Sri Shakthi Institute of Engineering and Technology, Coimbatore, with a strong focus on Computer Vision, Deep Learning, and full-stack development.
+I'm a **Third-year B.Tech AIML student** at Sri Shakthi Institute of Engineering and Technology, Coimbatore.Interested in Deep Learning, Computer Vision, and data-driven AI systems. Actively building ML projects and exploring real-world applications.
 
 -  **Degree:** B.Tech — Artificial Intelligence & Machine Learning (2024–2028)
 -  **CGPA:** 7.84
